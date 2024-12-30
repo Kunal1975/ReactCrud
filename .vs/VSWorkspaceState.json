@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\dataapp",
+    "\\dataapp\\src",
+    "\\dataapp\\src\\Entity"
   ],
+  "SelectedNode": "\\dataapp\\src\\Entity\\Product.js",
   "PreviewInSolutionExplorer": false
 }

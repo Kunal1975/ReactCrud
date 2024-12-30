@@ -120,6 +120,7 @@ export const Newdatacomp = () => {
          </tbody>
         </table>
         <div >
+        {/* Calling ConfirmBox */}
           <ConfirmBox isvisible={showDelete} index={index}>{showDelete?'show':'Hide'}</ConfirmBox>
          
         </div>
